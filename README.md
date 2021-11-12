@@ -44,3 +44,18 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+TypeScript Work:
+
+1. check out the tsconfig file and see if you want to change anything
+
+2. Typescript file extension is .ts for javascript only files and if you have jsx in the file then the extension is .tsx
+
+3. Variables must have types, so boolean, number, strings etc
+
+4. Use the type command to make new custom types
+
+5. To specify the return type of a function, declare the type after the arguments
+
+6. Export the custom Types asa  good practice because you'll never know if you need them in another component# reactTypeScript
